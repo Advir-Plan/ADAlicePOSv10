@@ -1,0 +1,7 @@
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\bin\Debug\LicenseGenerator.exe.config
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\bin\Debug\LicenseGenerator.exe
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\bin\Debug\LicenseGenerator.pdb
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.AssemblyReference.cache
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\obj\Debug\LicenseGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\obj\Debug\LicenseGenerator.exe
+C:\Users\jtalm\source\repos\ADAlicePOSv10\LicenseGenerator\obj\Debug\LicenseGenerator.pdb

@@ -1,0 +1,14 @@
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\ADAlicePOSv10.dll
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\ADAlicePOSv10.pdb
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.csproj.AssemblyReference.cache
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.csproj.CoreCompileInputs.cache
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.dll
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.pdb
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\VndBE100.dll
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAliceP.DF4618A1.Up2Date
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\ADAlicePOSv10.dll.config
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.DefenicoesAlice.resources
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\obj\Debug\ADAlicePOSv10.csproj.GenerateResource.cache
+C:\Users\jtalm\source\repos\ADAlicePOSv10\ADAlicePOSv10\bin\Debug\ErpDS100.dll
