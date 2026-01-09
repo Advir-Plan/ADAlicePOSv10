@@ -7,6 +7,7 @@ using System.Text;
 
 namespace ADAlicePOSv10.LicenseGenerator
 {
+
     /// <summary>
     /// Aplicação console para gerar licenças para o ADAlice POS
     /// USO: LicenseGenerator.exe [hardwareId] [dias] [nomeEmpresa]

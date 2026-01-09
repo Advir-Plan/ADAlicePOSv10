@@ -532,6 +532,7 @@ namespace ADAlicePOSv10.POS
                 case "3111": return "Timeout do Trashcycle de moedas.";
                 case "3112": return "Reciclador de moedas inconsistente.";
 
+
                 // Erros de Hardware de Notas (3200-3209)
                 case "3200": return "Transporte de notas preso.";
                 case "3201": return "Stacker de notas preso.";
