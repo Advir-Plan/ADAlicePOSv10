@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\",
+  "WorkspaceRootPath": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F5A1234-ABCD-4321-9876-FEDCBA987654}|LicenseGenerator\\LicenseGenerator.csproj|c:\\users\\jtalm\\source\\repos\\adaliceposv10\\licensegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F5A1234-ABCD-4321-9876-FEDCBA987654}|LicenseGenerator\\LicenseGenerator.csproj|solutionrelative:licensegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\pos\\uieditorvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\pos\\uieditorvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\licensing\\licensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\licensing\\licensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\metodoserp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\metodoserp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\metodoserp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\pos\\uieditorvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\pos\\uieditorvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\licensing\\licensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\licensing\\licensemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\pos\\formpagamentoalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\defenicoesalice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F5A1234-ABCD-4321-9876-FEDCBA987654}|LicenseGenerator\\LicenseGenerator.csproj|c:\\users\\jpval\\desktop\\adaliceposv10\\licensegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F5A1234-ABCD-4321-9876-FEDCBA987654}|LicenseGenerator\\LicenseGenerator.csproj|solutionrelative:licensegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\defenicoesalice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\defenicoesalice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\adaliceposv10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\adaliceposv10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{90D717D5-19AE-4E32-B420-021A07565596}|ADAlicePOSv10\\ADAlicePOSv10.csproj|solutionrelative:adaliceposv10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ADAlicePOSv10\\POS\\PriClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,138 +62,155 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\LicenseGenerator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\LicenseGenerator\\Program.cs",
               "RelativeDocumentMoniker": "LicenseGenerator\\Program.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\LicenseGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\LicenseGenerator\\Program.cs",
               "RelativeToolTip": "LicenseGenerator\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwAUBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T17:32:45.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DefenicoesAlice.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\DefenicoesAlice.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
               "RelativeToolTip": "ADAlicePOSv10\\DefenicoesAlice.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAIwDoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:27:25.682Z"
+              "WhenOpened": "2026-01-08T10:27:25.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DefenicoesAlice.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\DefenicoesAlice.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs [Design]",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.cs [Design]",
               "RelativeToolTip": "ADAlicePOSv10\\DefenicoesAlice.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:13:29.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPagamentoAlice.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs [Design]",
-              "RelativeToolTip": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T17:35:13.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPagamentoAlice.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "RelativeToolTip": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
-              "ViewState": "AgIAAK8BAAAAAAAAAAAiwMABAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T17:19:37.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UiEditorVendas.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\UiEditorVendas.cs",
-              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\UiEditorVendas.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\UiEditorVendas.cs",
-              "RelativeToolTip": "ADAlicePOSv10\\POS\\UiEditorVendas.cs",
-              "ViewState": "AgIAAAECAAAAAAAAAAAiwBoCAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T15:35:34.828Z"
+              "WhenOpened": "2026-01-08T10:13:29.18Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MetodosERP.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\MetodosERP.cs",
-              "RelativeDocumentMoniker": "ADAlicePOSv10\\MetodosERP.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\MetodosERP.cs",
-              "RelativeToolTip": "ADAlicePOSv10\\MetodosERP.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Title": "FormPagamentoAlice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs [Design]",
+              "RelativeToolTip": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:33:28.746Z"
+              "WhenOpened": "2025-12-18T17:35:13.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPagamentoAlice.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "RelativeToolTip": "ADAlicePOSv10\\POS\\FormPagamentoAlice.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T17:19:37.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LicenseManager.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\Licensing\\LicenseManager.cs",
-              "RelativeDocumentMoniker": "ADAlicePOSv10\\Licensing\\LicenseManager.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\Licensing\\LicenseManager.cs",
-              "RelativeToolTip": "ADAlicePOSv10\\Licensing\\LicenseManager.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwGEAAAAAAAAAAAAAAA==",
+              "Title": "UiEditorVendas.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\UiEditorVendas.cs",
+              "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\UiEditorVendas.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\UiEditorVendas.cs*",
+              "RelativeToolTip": "ADAlicePOSv10\\POS\\UiEditorVendas.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:00:47.011Z"
+              "WhenOpened": "2025-12-18T15:35:34.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "MetodosERP.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\MetodosERP.cs",
+              "RelativeDocumentMoniker": "ADAlicePOSv10\\MetodosERP.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\MetodosERP.cs",
+              "RelativeToolTip": "ADAlicePOSv10\\MetodosERP.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowNkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T10:33:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LicenseManager.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\Licensing\\LicenseManager.cs",
+              "RelativeDocumentMoniker": "ADAlicePOSv10\\Licensing\\LicenseManager.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\Licensing\\LicenseManager.cs",
+              "RelativeToolTip": "ADAlicePOSv10\\Licensing\\LicenseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T10:00:47.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\packages.config",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\packages.config",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\packages.config",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\packages.config",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\packages.config",
               "RelativeToolTip": "ADAlicePOSv10\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-08T10:28:44.617Z"
+              "WhenOpened": "2026-01-08T10:28:44.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "DefenicoesAlice.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
               "RelativeToolTip": "ADAlicePOSv10\\DefenicoesAlice.Designer.cs",
               "ViewState": "AgIAAI8AAAAAAAAAAAAgwM4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:28:47.764Z"
+              "WhenOpened": "2026-01-08T10:28:47.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PriClass1.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\PriClass1.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
               "RelativeToolTip": "ADAlicePOSv10\\POS\\PriClass1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "PriClass1.cs",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\POS\\PriClass1.cs",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\POS\\PriClass1.cs",
               "RelativeToolTip": "ADAlicePOSv10\\POS\\PriClass1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\app.config",
+              "DocumentMoniker": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\app.config",
               "RelativeDocumentMoniker": "ADAlicePOSv10\\app.config",
-              "ToolTip": "C:\\Users\\jtalm\\source\\repos\\ADAlicePOSv10\\ADAlicePOSv10\\app.config",
+              "ToolTip": "C:\\Users\\jpval\\Desktop\\ADAlicePOSv10\\ADAlicePOSv10\\app.config",
               "RelativeToolTip": "ADAlicePOSv10\\app.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",

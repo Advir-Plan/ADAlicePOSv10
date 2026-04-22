@@ -496,6 +496,10 @@ namespace ADAlicePOSv10.POS
             switch (estado)
             {
                 case 1:
+                    lblEstado.Text = "A iniciar operação no moedeiro...";
+                    lblEstado.ForeColor = Color.Gray;
+                    break;
+                case 2:
                     if (valorRecebidoEuros > 0)
                     {
                         lblEstado.Text = "Continue inserindo dinheiro...";
@@ -508,8 +512,16 @@ namespace ADAlicePOSv10.POS
                     }
                     break;
                 case 3:
-                    lblEstado.Text = "⚙ A processar pagamento, aguarde...";
+                    lblEstado.Text = "⚙ A cancelar operação, aguarde...";
                     lblEstado.ForeColor = Color.FromArgb(0, 120, 215);
+                    break;
+                case 7:
+                    lblEstado.Text = "Operação em fila de espera...";
+                    lblEstado.ForeColor = Color.FromArgb(255, 153, 0);
+                    break;
+                case 8:
+                    lblEstado.Text = "Operação não encontrada na Alice.";
+                    lblEstado.ForeColor = Color.FromArgb(220, 53, 69);
                     break;
             }
         }
@@ -576,64 +588,48 @@ namespace ADAlicePOSv10.POS
                 return;
             }
 
+            string msg = string.IsNullOrWhiteSpace(mensagem)
+                ? "Erro no processamento do pagamento."
+                : mensagem.Trim();
+
             progressBar.Style = ProgressBarStyle.Continuous;
             progressBar.Value = 0;
 
-            // Verificar se é cancelamento ou timeout
-            if (mensagem.Contains("cancelada") || mensagem.Contains("Cancelada") ||
-                mensagem.Contains("devolvido") || mensagem.Contains("Tempo limite"))
+            bool isCancelamento =
+                msg.IndexOf("cancelada", StringComparison.OrdinalIgnoreCase) >= 0 ||
+                msg.IndexOf("devolvido", StringComparison.OrdinalIgnoreCase) >= 0 ||
+                msg.IndexOf("tempo limite", StringComparison.OrdinalIgnoreCase) >= 0;
+
+            if (isCancelamento)
             {
                 DesenharIconeCancelamento();
 
-                // Simplificar mensagem se for timeout
-                if (mensagem.Contains("Tempo limite"))
-                {
-                    lblEstado.Text = "Tempo limite excedido.\nDinheiro devolvido.";
-                }
-                else
-                {
-                    lblEstado.Text = mensagem;
-                }
+                if (msg.IndexOf("tempo limite", StringComparison.OrdinalIgnoreCase) >= 0)
+                    msg = "Tempo limite excedido.\nDinheiro devolvido.";
 
+                lblEstado.Text = msg;
                 lblEstado.ForeColor = Color.FromArgb(255, 153, 0);
-                lblEstado.Font = new Font("Segoe UI", 11, FontStyle.Bold);
+                lblEstado.Font = new Font("Segoe UI", 10, FontStyle.Bold);
+                lblEstado.Size = new Size(530, 60);
+                lblEstado.AutoSize = false;
 
-                // Header laranja
                 panelHeader.Paint -= PanelHeader_Paint;
-                panelHeader.Paint += (s, e) =>
-                {
-                    using (LinearGradientBrush brush = new LinearGradientBrush(
-                        panelHeader.ClientRectangle,
-                        Color.FromArgb(255, 153, 0),
-                        Color.FromArgb(230, 130, 0),
-                        LinearGradientMode.Vertical))
-                    {
-                        e.Graphics.FillRectangle(brush, panelHeader.ClientRectangle);
-                    }
-                };
+                panelHeader.Paint += HeaderLaranja_Paint;
                 panelHeader.Invalidate();
             }
             else
             {
                 DesenharIconeErro();
 
-                lblEstado.Text = mensagem;
+                lblEstado.Text = msg;
                 lblEstado.ForeColor = Color.FromArgb(220, 53, 69);
-                lblEstado.Font = new Font("Segoe UI", 12, FontStyle.Bold);
+                lblEstado.Font = new Font("Segoe UI", 9, FontStyle.Bold);
+                lblEstado.Location = new Point(20, 165);
+                lblEstado.Size = new Size(530, 90);
+                lblEstado.AutoSize = false;
 
-                // Header vermelho
                 panelHeader.Paint -= PanelHeader_Paint;
-                panelHeader.Paint += (s, e) =>
-                {
-                    using (LinearGradientBrush brush = new LinearGradientBrush(
-                        panelHeader.ClientRectangle,
-                        Color.FromArgb(220, 53, 69),
-                        Color.FromArgb(190, 40, 55),
-                        LinearGradientMode.Vertical))
-                    {
-                        e.Graphics.FillRectangle(brush, panelHeader.ClientRectangle);
-                    }
-                };
+                panelHeader.Paint += HeaderVermelho_Paint;
                 panelHeader.Invalidate();
             }
 
@@ -649,6 +645,31 @@ namespace ADAlicePOSv10.POS
                 this.Close();
             };
         }
+
+        private void HeaderLaranja_Paint(object sender, PaintEventArgs e)
+        {
+            using (var brush = new LinearGradientBrush(
+                panelHeader.ClientRectangle,
+                Color.FromArgb(255, 153, 0),
+                Color.FromArgb(230, 130, 0),
+                LinearGradientMode.Vertical))
+            {
+                e.Graphics.FillRectangle(brush, panelHeader.ClientRectangle);
+            }
+        }
+
+        private void HeaderVermelho_Paint(object sender, PaintEventArgs e)
+        {
+            using (var brush = new LinearGradientBrush(
+                panelHeader.ClientRectangle,
+                Color.FromArgb(220, 53, 69),
+                Color.FromArgb(190, 40, 55),
+                LinearGradientMode.Vertical))
+            {
+                e.Graphics.FillRectangle(brush, panelHeader.ClientRectangle);
+            }
+        }
+
 
         public void MostrarAviso(string mensagem)
         {

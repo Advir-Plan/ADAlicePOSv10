@@ -52,9 +52,9 @@ namespace ADAlicePOSv10
                 else
                 {
                     // Se não existir, preencher com valores padrão
-                    txtBaseUrl.Text = "https://192.168.1.84:8081/api";
-                    txtUser.Text = "8957_Admin";
-                    txtPassword.Text = "3603ee";
+                    txtBaseUrl.Text = "https://192.168.49.193:8081/api";
+                    txtUser.Text = "b1d0_Admin";
+                    txtPassword.Text = "66aba1";
                     numPollingInterval.Value = 500;
                     numMaxPollingTime.Value = 300000;
                 }
@@ -64,9 +64,9 @@ namespace ADAlicePOSv10
                 MessageBox.Show("Erro ao carregar definições: " + ex.Message, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
                 // Se der erro, preencher com valores padrão
-                txtBaseUrl.Text = "https://192.168.1.84:8081/api";
-                txtUser.Text = "8957_Admin";
-                txtPassword.Text = "3603ee";
+                txtBaseUrl.Text = "https://192.168.49.193:8081/api";
+                txtUser.Text = "b1d0_Admin";
+                txtPassword.Text = "66aba1";
                 numPollingInterval.Value = 500;
                 numMaxPollingTime.Value = 300000;
             }

@@ -23,6 +23,8 @@ namespace ADAlicePOSv10
                 VerificarECriarTabelaAlice();
 
                 // Abrir o editor
+
+
                 DefenicoesAlice defenicoesAlice = new DefenicoesAlice(BSO, PSO);
                 defenicoesAlice.ShowDialog();
             }

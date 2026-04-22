@@ -234,8 +234,28 @@ namespace ADAlicePOSv10.Licensing
         /// </summary>
         private static string GetLicenseFilePath()
         {
+            // .Location devolve "" quando carregado como plugin pelo Primavera
             string assemblyPath = System.Reflection.Assembly.GetExecutingAssembly().Location;
-            string directory = Path.GetDirectoryName(assemblyPath);
+
+            string directory = null;
+
+            if (!string.IsNullOrEmpty(assemblyPath))
+            {
+                directory = Path.GetDirectoryName(assemblyPath);
+            }
+
+            // Fallback 1: assembly de entrada (ERP.exe)
+            if (string.IsNullOrEmpty(directory))
+            {
+                string entryPath = System.Reflection.Assembly.GetEntryAssembly()?.Location;
+                if (!string.IsNullOrEmpty(entryPath))
+                    directory = Path.GetDirectoryName(entryPath);
+            }
+
+            // Fallback 2: diretório de trabalho atual
+            if (string.IsNullOrEmpty(directory))
+                directory = Directory.GetCurrentDirectory();
+
             return Path.Combine(directory, LICENSE_FILE);
         }
 
